@@ -49,6 +49,10 @@ INSTALLATION
     
     To your ~/.gitconfig
 
+    You can also copy git-meld.pl where git looks up for all its executable
+    files :
+        $ sudo cp git-meld.pl <path>/libexec/git-core/git-meld
+
 CONFIGURATION
 =============
     The following additional git configuration variables are available for
